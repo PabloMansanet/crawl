@@ -438,8 +438,9 @@ static void _create_monster_hide(const monster &mons)
     move_item_to_grid(&o, pos);
     if (you.see_cell(pos))
     {
-        mprf("%s scales are intact enough to wear.",
-             apostrophise(mons.name(DESC_THE)).c_str());
+        mprf("%s %s intact enough to wear.",
+             apostrophise(mons.name(DESC_THE)).c_str(),
+             mons_genus(mons.type) == MONS_DRAGON ? "scales are" : "hide is");
     }
 }
 
