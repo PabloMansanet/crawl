@@ -75,7 +75,9 @@ after battling their way out of the afterlife. Disciples of the Council are
 taught to wield every weapon type with great proficiency. As they follow the
 Path they will become able to execute acrobatic martial maneuvers, such as wall
 jumps, spinning attacks and punishing lunges. They will eventually become able
-to request temporary help in the form of powerful divine weapons.
+to request temporary help in the form of powerful divine weapons. Followers
+unlock these abilities through practice, so they do not benefit from training
+Invocations.
 
 %%%%
 Jiyva
@@ -327,8 +329,8 @@ quarter combat skills, and learn to perform three martial techniques:
   ..x<lightred>@</lightred>...  -->  ..x..<lightred>@</lightred>. it, striking all enemies adjacent to the landing spot.
   ..x....       ..x.... May distract any witnessing foes.
 
-Disciples of the Council will also be taught to animate weapons at a distance,
-and eventually given the ability to temporarily wield powerful divine weapons.
+Disciples of the Council will also be taught to move at unfathomable speeds for
+short distances, and eventually become able to borrow powerful divine weapons.
 %%%%
 Kikubaaqudgha powers
 
